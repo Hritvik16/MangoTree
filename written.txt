@@ -1,0 +1,3 @@
+1. My model correctly classifies 98.165 % of the cogresspeople
+
+2. 
